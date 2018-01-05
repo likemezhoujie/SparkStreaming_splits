@@ -1,2 +1,2 @@
 # SparkStreaming_splits
-this is a spark series
+this is a spark project
