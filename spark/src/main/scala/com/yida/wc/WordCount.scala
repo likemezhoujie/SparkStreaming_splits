@@ -27,6 +27,6 @@ object WordCount {
     //todo:9.打印结果
     finalResult.foreach(x=>println(x))
     //println(finalResult.toBuffer)
-    
+    sc.stop()
   }
 }
