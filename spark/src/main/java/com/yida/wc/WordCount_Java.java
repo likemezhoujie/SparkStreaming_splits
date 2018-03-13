@@ -30,7 +30,7 @@ public class WordCount_Java {
             @Override               //line表示每一行记录
             public Iterator<String> call(String line) throws Exception {
                 //切分每一行
-                String[] words = line.split(" ");
+                String[] words = line.split(" "); //lll
 
                 return Arrays.asList(words).iterator();
             }
